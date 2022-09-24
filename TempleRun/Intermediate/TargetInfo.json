@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TempleRun",
+			"Path": "C:\\Users\\hive\\Desktop\\GitHub\\TempleRun\\TempleRun\\Source\\TempleRun.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TempleRunEditor",
+			"Path": "C:\\Users\\hive\\Desktop\\GitHub\\TempleRun\\TempleRun\\Source\\TempleRunEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

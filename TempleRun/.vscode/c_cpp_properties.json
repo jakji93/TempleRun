@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "TempleRunEditor Editor Win64 Development (TempleRun)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\hive\\Desktop\\GitHub\\TempleRun\\TempleRun\\.vscode\\compileCommands_TempleRun.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\hive\\Desktop\\GitHub\\TempleRun\\TempleRun\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

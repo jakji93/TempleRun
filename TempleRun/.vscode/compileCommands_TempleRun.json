@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\Users\\hive\\Desktop\\GitHub\\TempleRun\\TempleRun\\Source\\TempleRun\\MovingPlatform.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\hive\\Desktop\\GitHub\\TempleRun\\TempleRun\\.vscode\\compileCommands_TempleRun\\TempleRun.205.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\hive\\Desktop\\GitHub\\TempleRun\\TempleRun\\Source\\TempleRun\\MovingPlatform.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\hive\\Desktop\\GitHub\\TempleRun\\TempleRun\\.vscode\\compileCommands_TempleRun\\TempleRun.205.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\hive\\Desktop\\GitHub\\TempleRun\\TempleRun\\Source\\TempleRun\\TempleRun.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\hive\\Desktop\\GitHub\\TempleRun\\TempleRun\\.vscode\\compileCommands_TempleRun\\TempleRun.205.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\hive\\Desktop\\GitHub\\TempleRun\\TempleRun\\Source\\TempleRun\\TempleRun.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\hive\\Desktop\\GitHub\\TempleRun\\TempleRun\\.vscode\\compileCommands_TempleRun\\TempleRun.205.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\hive\\Desktop\\GitHub\\TempleRun\\TempleRun\\Source\\TempleRun\\TempleRun.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\hive\\Desktop\\GitHub\\TempleRun\\TempleRun\\.vscode\\compileCommands_TempleRun\\TempleRun.205.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]

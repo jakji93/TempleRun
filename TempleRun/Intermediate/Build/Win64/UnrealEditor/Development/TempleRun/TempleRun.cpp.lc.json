@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\hive\\desktop\\github\\templerun\\templerun\\source\\templerun\\templerun.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\hive\\desktop\\github\\templerun\\templerun\\intermediate\\build\\win64\\templeruneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\hive\\desktop\\github\\templerun\\templerun\\intermediate\\build\\win64\\unrealeditor\\development\\templerun\\definitions.templerun.h",
+            "c:\\users\\hive\\desktop\\github\\templerun\\templerun\\source\\templerun\\templerun.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
