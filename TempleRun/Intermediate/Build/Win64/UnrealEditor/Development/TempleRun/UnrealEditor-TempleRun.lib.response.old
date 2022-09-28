@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TempleRun.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\hive\Desktop\GitHub\TempleRun\TempleRun\Intermediate\Build\Win64\TempleRunEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\hive\Desktop\GitHub\TempleRun\TempleRun\Intermediate\Build\Win64\UnrealEditor\Development\TempleRun\MovingPlatform.cpp.obj"
+"C:\Users\hive\Desktop\GitHub\TempleRun\TempleRun\Intermediate\Build\Win64\UnrealEditor\Development\TempleRun\TempleRun.cpp.obj"
+"C:\Users\hive\Desktop\GitHub\TempleRun\TempleRun\Intermediate\Build\Win64\UnrealEditor\Development\TempleRun\MovingPlatform.gen.cpp.obj"
+"C:\Users\hive\Desktop\GitHub\TempleRun\TempleRun\Intermediate\Build\Win64\UnrealEditor\Development\TempleRun\TempleRun.init.gen.cpp.obj"
+"C:\Users\hive\Desktop\GitHub\TempleRun\TempleRun\Intermediate\Build\Win64\UnrealEditor\Development\TempleRun\Default.rc2.res"
+/OUT:"C:\Users\hive\Desktop\GitHub\TempleRun\TempleRun\Intermediate\Build\Win64\UnrealEditor\Development\TempleRun\UnrealEditor-TempleRun.lib"

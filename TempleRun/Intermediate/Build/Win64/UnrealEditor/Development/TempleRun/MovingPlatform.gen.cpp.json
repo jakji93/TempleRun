@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\hive\\desktop\\github\\templerun\\templerun\\intermediate\\build\\win64\\unrealeditor\\inc\\templerun\\movingplatform.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\hive\\desktop\\github\\templerun\\templerun\\intermediate\\build\\win64\\templeruneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\hive\\desktop\\github\\templerun\\templerun\\intermediate\\build\\win64\\unrealeditor\\development\\templerun\\definitions.templerun.h",
+            "c:\\users\\hive\\desktop\\github\\templerun\\templerun\\source\\templerun\\movingplatform.h",
+            "c:\\users\\hive\\desktop\\github\\templerun\\templerun\\intermediate\\build\\win64\\unrealeditor\\inc\\templerun\\movingplatform.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
